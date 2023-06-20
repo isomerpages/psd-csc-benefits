@@ -3,6 +3,6 @@ collections:
     output: true
     order:
       - CSC @ Bukit Batok.md
-      - Changi.md
+      - CSC @ Changi.md
       - Loyang.md
       - Tessensohn.md
