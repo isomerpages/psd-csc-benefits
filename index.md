@@ -9,8 +9,6 @@ sections:
   - hero:
       title: Civil Service Club
       subtitle: Discover experiences to enjoy with your loved ones
-      button: Contact Us
-      url: /contact-us/
       key_highlights:
         - title: Events
           description: ""
@@ -30,6 +28,6 @@ sections:
       url: /faq/
   - resources:
       title: Signature Events
-      subtitle: "This Month's "
+      subtitle: This Month's
       button: other events
 ---
