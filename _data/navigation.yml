@@ -1,10 +1,10 @@
 logo: /images/isomer-logo.svg
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Example Page
-    url: /example-page/
-  - title: Example Folder
-    collection: example-folder
   - title: Events
     resource_room: true
+  - title: Clubhouses
+    collection: example-folder
+  - title: Membership
+    url: /example-page/
+  - title: Contact Us
+    url: /contact-us/
