@@ -2,6 +2,7 @@ collections:
   clubhouses:
     output: true
     order:
+      - Planet Bowl.md
       - Westwood Bowl.md
       - CSC @ Bukit Batok.md
       - CSC @ Changi.md
