@@ -1,8 +1,8 @@
 ---
 layout: homepage
-title: Isomer Site
+title: Civil Service Club
 description: Brief site description here
-image: /images/isomer-logo.svg
+image: /images/csc-logo.png
 permalink: /
 notification: ""
 sections:
