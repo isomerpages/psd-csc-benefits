@@ -2,6 +2,6 @@ collections:
   clubhouses:
     output: true
     order:
-      - folder-page.md
+      - Bukit Batok.md
       - example-subfolder/.keep
       - example-subfolder/subfolder-page.md
