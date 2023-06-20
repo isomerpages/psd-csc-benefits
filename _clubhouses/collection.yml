@@ -2,7 +2,7 @@ collections:
   clubhouses:
     output: true
     order:
-      - Book our facilities.md
+      - Westwood Bowl.md
       - CSC @ Bukit Batok.md
       - CSC @ Changi.md
       - CSC @ Loyang.md
