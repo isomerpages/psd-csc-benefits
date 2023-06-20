@@ -1,5 +1,5 @@
 collections:
-  example-folder:
+  clubhouses:
     output: true
     order:
       - folder-page.md
