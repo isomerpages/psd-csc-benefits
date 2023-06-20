@@ -1,21 +1,21 @@
-title: Title
-url: ""
-favicon: /images/favicon-isomer.ico
+title: Civil Service Club
+url: https://csc.sg
+favicon: /images/csc-logo.png
 colors:
-  primary-color: "#6031b6"
-  secondary-color: "#4372d6"
+  primary-color: "#9b1a3e"
+  secondary-color: "#323232"
   media-colors:
     - title: media-color-one
-      color: "#49759a"
+      color: "#301818"
     - title: media-color-two
-      color: "#744d9f"
+      color: "#c52327"
     - title: media-color-three
-      color: "#00838f"
+      color: "#301818"
     - title: media-color-four
-      color: "#00838f"
+      color: "#c52327"
     - title: media-color-five
-      color: "#00838f"
-description: An Isomer site of the Singapore Government
+      color: "#301818"
+description: ""
 permalink: none
 baseurl: ""
 exclude:
@@ -53,3 +53,8 @@ staging: https://staging.d19cj5vlg8czrw.amplifyapp.com
 prod: https://master.d19cj5vlg8czrw.amplifyapp.com
 facebook-pixel: ""
 resources_name: events
+shareicon: /images/csc-logo.png
+is_government: false
+google_analytics: ""
+google_analytics_ga4: ""
+linkedin-insights: ""
