@@ -2,6 +2,7 @@ collections:
   clubhouses:
     output: true
     order:
+      - Loyang.md
       - Changi.md
       - Bukit Batok.md
       - example-subfolder/.keep
