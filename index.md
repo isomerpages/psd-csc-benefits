@@ -4,11 +4,11 @@ title: Isomer Site
 description: Brief site description here
 image: /images/isomer-logo.svg
 permalink: /
-notification: Here's a notification bar you can use!
+notification: ""
 sections:
   - hero:
-      title: Hero title
-      subtitle: Hero subtitle
+      title: Civil Service Club
+      subtitle: Discover experiences to enjoy with your loved ones
       button: Contact Us
       url: /contact-us/
       key_highlights:
@@ -21,10 +21,15 @@ sections:
         - title: Clubhouses and facilities
           description: ""
           url: ""
+      background: /images/home_banner1.jpg
   - infobar:
       title: Infobar title
       subtitle: Subtitle
       description: About a sentence worth of description here
       button: Button text
       url: /faq/
+  - resources:
+      title: Signature Events
+      subtitle: "This Month's "
+      button: other events
 ---
