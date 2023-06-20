@@ -15,12 +15,10 @@ More Details:
 
 **Get your F&B coupons now at up to $5 off!**
 
-For $15 value coupons:
-
-| Members | Public Service Officers | Guests |
-| -------- | -------- | -------- |
-| $10     | $12     | $15     |
-
+* For $15 value coupons:
+	* Members - $10
+	* Public Service Officers - $12
+	* Guests - $15
 * The F&B coupons are only valid for use at the bazaar stalls on 9 Aug ’23. 
 * All purchases at the stalls are by coupons only. 
 * Coupons can be purchased online now and collect on 9 Aug ’23. 
