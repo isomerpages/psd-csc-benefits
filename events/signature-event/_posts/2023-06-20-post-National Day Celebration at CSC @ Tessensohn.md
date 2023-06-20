@@ -16,6 +16,7 @@ More Details:
 **Get your F&B coupons now at up to $5 off!**
 
 For $15 value coupons:
+
 | Members | Public Service Officers | Guests |
 | -------- | -------- | -------- |
 | $10     | $12     | $15     |
