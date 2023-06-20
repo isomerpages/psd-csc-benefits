@@ -2,9 +2,9 @@ collections:
   clubhouses:
     output: true
     order:
-      - Tessensohn.md
-      - Loyang.md
-      - Changi.md
       - Bukit Batok.md
+      - Changi.md
+      - Loyang.md
+      - Tessensohn.md
       - example-subfolder/.keep
       - example-subfolder/subfolder-page.md
