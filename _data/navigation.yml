@@ -3,7 +3,7 @@ links:
   - title: Events
     resource_room: true
   - title: Clubhouses
-    collection: example-folder
+    collection: clubhouses
   - title: Membership
     url: /example-page/
   - title: Contact Us
