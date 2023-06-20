@@ -9,16 +9,6 @@ sections:
   - hero:
       title: Civil Service Club
       subtitle: Discover experiences to enjoy with your loved ones
-      key_highlights:
-        - title: Events
-          description: ""
-          url: ""
-        - title: Membership
-          description: ""
-          url: ""
-        - title: Clubhouses and facilities
-          description: ""
-          url: ""
       background: /images/home_banner1.jpg
   - infobar:
       title: Infobar title
