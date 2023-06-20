@@ -6,9 +6,9 @@ layout: post
 description: ""
 image: ""
 ---
-Celebrate Singapore's 58th National Day at CSC with local-licious food and fun activities for all families!
+![](/images/996cover.jpg)
 
-  
+Celebrate Singapore's 58th National Day at CSC with local-licious food and fun activities for all families!
 
 More Details:
 -------------
