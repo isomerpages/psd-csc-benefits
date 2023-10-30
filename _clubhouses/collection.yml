@@ -1,0 +1,10 @@
+collections:
+  clubhouses:
+    output: true
+    order:
+      - Book our facilities.md
+      - CSC @ Bukit Batok.md
+      - CSC @ Changi.md
+      - CSC @ Loyang.md
+      - CSC @ Tessensohn.md
+      - Planet Bowl.md
