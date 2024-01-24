@@ -1,0 +1,8 @@
+logo: /images/csc-logo.png
+links:
+  - title: Events
+    resource_room: true
+  - title: Book our facilities
+    collection: clubhouses
+  - title: Membership
+    url: /membership
